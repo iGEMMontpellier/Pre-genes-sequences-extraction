@@ -7,4 +7,4 @@ As the sequence are all in the good order you don't need to do an analisis on bo
 
 To use MEME upload the fatsta file, and enter you parameters (number of motif you want to find...), if you have a lot of sequences search for motif with a minimun of 30 sites per 1000 sequence, to avoid aberations.
 
-Then you got the result, with a meme and a mast, geting you the localisation of each motif on your sequences. If like me you want an histogramme you can use Cibo, for this open the .xml mast file and download it (keep the name mast.xml), and run cibo in the same folder. and tadam a carect histogramme of the localisation of the sequence. 
+Then you got the result, with a meme and a mast, geting you the localisation of each motif on your sequences. If like me you want an histogramme you can use Cibo, for this open the .xml mast file and download it (keep the name mast.xml), and run cibo in the same folder. and tadam a corect histogramme of the localisation of the sequence. 
